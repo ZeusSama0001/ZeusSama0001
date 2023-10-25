@@ -3,12 +3,6 @@
 
 <div align="center">
  
- <a href="">![Profile views](https://gpvc.arturio.dev/zeussama0001?v=3)</a>
-
-</div>
-
-<div align="center">
- 
  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -19,9 +13,8 @@
 
 <div align="center">
  
- ![Discord](https://img.shields.io/badge/Discord-Zeus%20Sama7302-0e76a8?style=flat-square&logo=discord&logoColor=white)
+ ![Discord](https://img.shields.io/badge/Discord-zeus.sama-0e76a8?style=flat-square&logo=discord&logoColor=white)
  [![Instagram](https://img.shields.io/badge/Instagram-zeus__sama-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zeus__sama)
- ![Email](https://img.shields.io/badge/Gmail-vaibhavsrivastava2025-4285f4?style=flat-square&logo=gmail&logoColor=white)
  
 </div>
 
